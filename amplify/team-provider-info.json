@@ -16,5 +16,23 @@
                 "multicognitotest0a59a83d": {}
             }
         }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multicognitotest-prod-163308-authRole",
+            "UnauthRoleArn": "arn:aws:iam::460288031152:role/amplify-multicognitotest-prod-163308-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::460288031152:role/amplify-multicognitotest-prod-163308-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-multicognitotest-prod-163308-deployment",
+            "UnauthRoleName": "amplify-multicognitotest-prod-163308-unauthRole",
+            "StackName": "amplify-multicognitotest-prod-163308",
+            "StackId": "arn:aws:cloudformation:us-east-2:460288031152:stack/amplify-multicognitotest-prod-163308/c666aee0-8d5b-11ea-ac28-060a435a9e52",
+            "AmplifyAppId": "d5oiqbbx643y4"
+        },
+        "categories": {
+            "auth": {
+                "multicognitotest0a59a83d": {}
+            }
+        }
     }
 }
