@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multicognitotest-dev-155955-authRole",
+            "UnauthRoleArn": "arn:aws:iam::460288031152:role/amplify-multicognitotest-dev-155955-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::460288031152:role/amplify-multicognitotest-dev-155955-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-multicognitotest-dev-155955-deployment",
+            "UnauthRoleName": "amplify-multicognitotest-dev-155955-unauthRole",
+            "StackName": "amplify-multicognitotest-dev-155955",
+            "StackId": "arn:aws:cloudformation:us-east-2:460288031152:stack/amplify-multicognitotest-dev-155955/230f5520-8d57-11ea-bb92-06faea3c34dc",
+            "AmplifyAppId": "d5oiqbbx643y4"
+        },
+        "categories": {
+            "auth": {
+                "multicognitotest0a59a83d": {}
+            }
+        }
+    }
+}
